@@ -1,6 +1,3 @@
-
-README.md
-
 1.File Integrity Checker project
 
 A Python-based File Integrity Checker that monitors changes in files by calculating and comparing cryptographic hash values.  
@@ -28,14 +25,7 @@ If even a single character in a file is changed, the hash value will change, and
 - json– for storing and loading hash values  
 
 5.Project Structure
-
-file_integrity_checker/
-│
-├── checker.py          # Main Python script
-├── hash_store.json     # Stores hash values of monitored files
-├── files/              # Folder containing files to monitor
-│   └── test.txt
-└── README.md
+<img width="553" height="186" alt="image" src="https://github.com/user-attachments/assets/981d3d7d-debb-4103-9cbe-7c8c08b89c01" />
 
 6.How It Works
 
@@ -59,7 +49,9 @@ file_integrity_checker/
 3️.Provide File Path
  text
  files/test.txt
+ 
 <img width="1597" height="335" alt="Screenshot 2026-02-05 155642" src="https://github.com/user-attachments/assets/4d633f3c-b3a4-49c9-b997-1085de581131" />
+
 #Example Output
  First Run:
 ✅ File added for monitoring.
@@ -97,5 +89,6 @@ It follows industry-standard practices and can be extended further for real-time
 
 👤 Author
 Ashish Kumar
-Cybersecurity Intern
+|| Cybersecurity Intern ||
 Python | Linux | Security Tools
+
