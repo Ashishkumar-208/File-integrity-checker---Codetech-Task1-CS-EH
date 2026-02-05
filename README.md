@@ -25,6 +25,7 @@ If even a single character in a file is changed, the hash value will change, and
 - json– for storing and loading hash values  
 
 5.Project Structure
+
 <img width="553" height="186" alt="image" src="https://github.com/user-attachments/assets/981d3d7d-debb-4103-9cbe-7c8c08b89c01" />
 
 6.How It Works
@@ -91,4 +92,5 @@ It follows industry-standard practices and can be extended further for real-time
 Ashish Kumar
 || Cybersecurity Intern ||
 Python | Linux | Security Tools
+
 
